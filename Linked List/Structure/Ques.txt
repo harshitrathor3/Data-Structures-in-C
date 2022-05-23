@@ -1,0 +1,7 @@
+Write a program to store a record of n students and take input of roll no, name, DOB and marks after take choice by users and perform tasks.
+
+1. Press 1 to print student percentages.
+2. Press 2 to find max and min percentage of student.
+3. Press 3 to search student details.
+4. Press 4 to find max and min marks of students in perticular subj.
+5. Press  to end.
